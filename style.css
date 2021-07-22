@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.part1{
+    background: url(./Apprise_NRK.jpg);
+    text-align: end;
+    background-size: cover;
+}
+.part1_content{
+    width: 50%;
+    font-size: 12px;
+    display: inline-block;
+    text-align: start;
+    padding: 30px;   
+}
+.part2_content{
+    font-size: 12px;
+    display: inline-block;
+    text-align: start;
+    padding: 30px;
+}
+.px11{
+    font-size: 13px;
+}
+.border{
+    border: 1px solid #fff;
+    height: 300px;
+}
+.carousel-item{
+    padding: 20px;
+}
+.margin-negative-right{
+    margin-right: -40px;
+}
+.margin-negative-right{
+    margin-right: -40px;
+}
+.margin-negative-left{
+    margin-left: -40px;
+}
+img{
+    image-rendering: -webkit-optimize-contrast;
+    height: 250px !important;
+}
+.footer{
+    font-size: 14px;
+    text-align: center;
+}
